@@ -1,0 +1,46 @@
+.main {
+  background-color: #f8f9fa;
+}
+
+.stButton > button {
+  width: 100%;
+  background-color: #2e8b57;
+  color: white;
+  font-size: 18px;
+  border-radius: 10px;
+  padding: 10px;
+  border: none;
+}
+
+.stButton > button:hover {
+  background-color: #228b22;
+  color: white;
+}
+
+.title {
+  text-align: center;
+  color: #2e8b57;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.subtitle {
+  text-align: center;
+  color: gray;
+  font-size: 18px;
+}
+
+.result {
+  background: #e8f5e9;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.footer {
+  text-align: center;
+  color: gray;
+  margin-top: 40px;
+}
