@@ -28,7 +28,7 @@ with open("style.css") as f:
 # SIDEBAR
 
 
-st.sidebar.title("Crop Recommendation")
+st.sidebar.title("Crop and Fertilizer Recommendation")
 
 page = st.sidebar.radio(
     "Navigation",
